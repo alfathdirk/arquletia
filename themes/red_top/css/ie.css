@@ -1,0 +1,15 @@
+.top-bar {
+	background: url(../img/trans-bg.png)/*tpa=http://www.ksdesigning.com/themes/new_wave/img/trans-bg.png*/;
+}
+
+.nav-bar ul.flyout li a {
+	background: url(../img/trans-bg.png)/*tpa=http://www.ksdesigning.com/themes/new_wave/img/trans-bg.png*/;
+}
+
+.nav-bar ul.flyout li a:hover {
+	background: #111;
+}
+
+/* Flexslider */
+.flex-direction-nav .flex-next {right: 0 !important;}
+.flex-direction-nav .flex-prev {left: 0 !important;}

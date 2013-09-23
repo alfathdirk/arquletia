@@ -1,0 +1,257 @@
+/*
+*	created by RAS Logic
+*/
+
+/*--- flat icons ---*/
+.icon_align_center,
+.icon_align_justify,
+.icon_align_left,
+.icon_align_right,
+.icon_ban,
+.icon_bin,
+.icon_blog,
+.icon_bold,
+.icon_book,
+.icon_book_open,
+.icon_calender,
+.icon_cardio,
+.icon_cart_in,
+.icon_cart_out,
+.icon_chat,
+.icon_chevron_left,
+.icon_chevron_right,
+.icon_circle_arrow_down,
+.icon_circle_arrow_left,
+.icon_circle_arrow_right,
+.icon_circle_arrow_top,
+.icon_circle_exclamation_mark,
+.icon_circle_info,
+.icon_circle_minus,
+.icon_circle_ok,
+.icon_circle_plus,
+.icon_circle_question_mark,
+.icon_circle_remove,
+.icon_clock,
+.icon_cogwheel,
+.icon_coins,
+.icon_comments,
+.icon_conversation,
+.icon_crop,
+.icon_cup,
+.icon_dashboard,
+.icon_database_ban,
+.icon_database_lock,
+.icon_database_minus,
+.icon_database_plus,
+.icon_down_arrow,
+.icon_download,
+.icon_edit,
+.icon_electricity,
+.icon_embed,
+.icon_embed_close,
+.icon_envelope,
+.icon_female,
+.icon_file_export,
+.icon_file_import,
+.icon_fire,
+.icon_flag,
+.icon_flash,
+.icon_folder_flag,
+.icon_folder_lock,
+.icon_folder_minus,
+.icon_folder_new,
+.icon_folder_open,
+.icon_folder_plus,
+.icon_font,
+.icon_girl,
+.icon_globe,
+.icon_group,
+.icon_hand_down,
+.icon_hand_left,
+.icon_hand_right,
+.icon_hand_up,
+.icon_hdd,
+.icon_home,
+.icon_iphone,
+.icon_italic,
+.icon_keys,
+.icon_left_arrow,
+.icon_left_indent,
+.icon_list,
+.icon_lock,
+.icon_male,
+.icon_notes,
+.icon_ok,
+.icon_parents,
+.icon_pen,
+.icon_pencil,
+.icon_picture,
+.icon_pie_chart,
+.icon_power,
+.icon_print,
+.icon_refresh,
+.icon_remove,
+.icon_repeat,
+.icon_right_arrow,
+.icon_right_indent,
+.icon_roundabout,
+.icon_search,
+.icon_settings,
+.icon_share,
+.icon_shield,
+.icon_shopping_cart,
+.icon_show_big_thumbnails,
+.icon_show_thumbnails,
+.icon_show_thumbnails_with_line,
+.icon_smoking,
+.icon_stats,
+.icon_table,
+.icon_text_bigger,
+.icon_text_height,
+.icon_text_resize,
+.icon_text_smaller,
+.icon_text_strike,
+.icon_text_underline,
+.icon_text_width,
+.icon_thumbs_down,
+.icon_thumbs_up,
+.icon_unlock,
+.icon_unshare,
+.icon_up_arrow,
+.icon_upload,
+.icon_usd,
+.icon_user,
+.icon_user_add,
+.icon_user_remove,
+.icon_warning,
+.icon_zoom_in,
+.icon_zoom_out
+{
+	vertical-align: text-bottom;
+	padding-left: 1em;
+}
+
+.icon_align_center{ background: url("icons/icon_align_center.png") 0 50% no-repeat;}
+.icon_align_justify{ background: url("icons/icon_align_justify.png") 0 50% no-repeat;}
+.icon_align_left{ background: url("icons/icon_align_left.png") 0 50% no-repeat;}
+.icon_align_right{ background: url("icons/icon_align_right.png") 0 50% no-repeat;}
+.icon_ban{ background: url("icons/icon_ban.png") 0 50% no-repeat;}
+.icon_bin{ background: url("icons/icon_bin.png") 0 50% no-repeat;}
+.icon_blog{ background: url("icons/icon_blog.png") 0 50% no-repeat;}
+.icon_bold{ background: url("icons/icon_bold.png") 0 50% no-repeat;}
+.icon_book{ background: url("icons/icon_book.png") 0 50% no-repeat;}
+.icon_book_open{ background: url("icons/icon_book_open.png") 0 50% no-repeat;}
+.icon_calender{ background: url("icons/icon_calender.png") 0 50% no-repeat;}
+.icon_cardio{ background: url("icons/icon_cardio.png") 0 50% no-repeat;}
+.icon_cart_in{ background: url("icons/icon_cart_in.png") 0 50% no-repeat;}
+.icon_cart_out{ background: url("icons/icon_cart_out.png") 0 50% no-repeat;}
+.icon_charts{ background: url("icons/icon_charts.png") 0 50% no-repeat;}
+.icon_chat{ background: url("icons/icon_chat.png") 0 50% no-repeat;}
+.icon_chevron_left{ background: url("icons/icon_chevron_left.png") 0 50% no-repeat;}
+.icon_chevron_right{ background: url("icons/icon_chevron_right.png") 0 50% no-repeat;}
+.icon_circle_arrow_down{ background: url("icons/icon_circle_arrow_down.png") 0 50% no-repeat;}
+.icon_circle_arrow_left{ background: url("icons/icon_circle_arrow_left.png") 0 50% no-repeat;}
+.icon_circle_arrow_right{ background: url("icons/icon_circle_arrow_right.png") 0 50% no-repeat;}
+.icon_circle_arrow_top{ background: url("icons/icon_circle_arrow_top.png") 0 50% no-repeat;}
+.icon_circle_exclamation_mark{ background: url("icons/icon_circle_exclamation_mark.png") 0 50% no-repeat;}
+.icon_circle_info{ background: url("icons/icon_circle_info.png") 0 50% no-repeat;}
+.icon_circle_minus{ background: url("icons/icon_circle_minus.png") 0 50% no-repeat;}
+.icon_circle_ok{ background: url("icons/icon_circle_ok.png") 0 50% no-repeat;}
+.icon_circle_plus{ background: url("icons/icon_circle_plus.png") 0 50% no-repeat;}
+.icon_circle_question_mark{ background: url("icons/icon_circle_question_mark.png") 0 50% no-repeat;}
+.icon_circle_remove{ background: url("icons/icon_circle_remove.png") 0 50% no-repeat;}
+.icon_clock{ background: url("icons/icon_clock.png") 0 50% no-repeat;}
+.icon_cogwheel{ background: url("icons/icon_cogwheelpng") 0 50% no-repeat;}
+.icon_coins{ background: url("icons/icon_coins.png") 0 50% no-repeat;}
+.icon_comments{ background: url("icons/icon_comments.png") 0 50% no-repeat;}
+.icon_conversation{ background: url("icons/icon_conversation.png") 0 50% no-repeat;}
+.icon_crop{ background: url("icons/icon_crop.png") 0 50% no-repeat;}
+.icon_cup{ background: url("icons/icon_cup.png") 0 50% no-repeat;}
+.icon_dashboard{ background: url("icons/icon_dashboard.png") 0 50% no-repeat;}
+.icon_database_ban{ background: url("icons/icon_database_ban.png") 0 50% no-repeat;}
+.icon_database_lock{ background: url("icons/icon_database_lock.png") 0 50% no-repeat;}
+.icon_database_minus{ background: url("icons/icon_database_minus.png") 0 50% no-repeat;}
+.icon_database_plus{ background: url("icons/icon_database_plus.png") 0 50% no-repeat;}
+.icon_down_arrow{ background: url("icons/icon_down_arrow.png") 0 50% no-repeat;}
+.icon_download{ background: url("icons/icon_download.png") 0 50% no-repeat;}
+.icon_edit{ background: url("icons/icon_edit.png") 0 50% no-repeat;}
+.icon_electricity{ background: url("icons/icon_electricity.png") 0 50% no-repeat;}
+.icon_embed{ background: url("icons/icon_embed.png") 0 50% no-repeat;}
+.icon_embed_close{ background: url("icons/icon_embed_close.png") 0 50% no-repeat;}
+.icon_envelope{ background: url("icons/icon_envelope.png") 0 50% no-repeat;}
+.icon_female{ background: url("icons/icon_female.png") 0 50% no-repeat;}
+.icon_file_export{ background: url("icons/icon_file_export.png") 0 50% no-repeat;}
+.icon_file_import{ background: url("icons/icon_file_import.png") 0 50% no-repeat;}
+.icon_fire{ background: url("icons/icon_fire.png") 0 50% no-repeat;}
+.icon_flag{ background: url("icons/icon_flag.png") 0 50% no-repeat;}
+.icon_flash{ background: url("icons/icon_flash.png") 0 50% no-repeat;}
+.icon_folder_flag{ background: url("icons/icon_folder_flag.png") 0 50% no-repeat;}
+.icon_folder_lock{ background: url("icons/icon_folder_lock.png") 0 50% no-repeat;}
+.icon_folder_minus{ background: url("icons/icon_folder_minus.png") 0 50% no-repeat;}
+.icon_folder_new{ background: url("icons/icon_folder_new.png") 0 50% no-repeat;}
+.icon_folder_open{ background: url("icons/icon_folder_open.png") 0 50% no-repeat;}
+.icon_folder_plus{ background: url("icons/icon_folder_plus.png") 0 50% no-repeat;}
+.icon_font{ background: url("icons/icon_font.png") 0 50% no-repeat;}
+.icon_girl{ background: url("icons/icon_girl.png") 0 50% no-repeat;}
+.icon_globe{ background: url("icons/icon_globe.png") 0 50% no-repeat;}
+.icon_group{ background: url("icons/icon_group.png") 0 50% no-repeat;}
+.icon_hand_down{ background: url("icons/icon_hand_down.png") 0 50% no-repeat;}
+.icon_hand_left{ background: url("icons/icon_hand_left.png") 0 50% no-repeat;}
+.icon_hand_right{ background: url("icons/icon_hand_right.png") 0 50% no-repeat;}
+.icon_hand_up{ background: url("icons/icon_hand_up.png") 0 50% no-repeat;}
+.icon_hdd{ background: url("icons/icon_hdd.png") 0 50% no-repeat;}
+.icon_home{ background: url("icons/icon_home.png") 0 50% no-repeat;}
+.icon_iphone{ background: url("icons/icon_iphone.png") 0 50% no-repeat;}
+.icon_italic{ background: url("icons/icon_italic.png") 0 50% no-repeat;}
+.icon_keys{ background: url("icons/icon_keys.png") 0 50% no-repeat;}
+.icon_left_arrow{ background: url("icons/icon_left_arrow.png") 0 50% no-repeat;}
+.icon_left_indent{ background: url("icons/icon_left_indent.png") 0 50% no-repeat;}
+.icon_list{ background: url("icons/icon_list.png") 0 50% no-repeat;}
+.icon_lock{ background: url("icons/icon_lock.png") 0 50% no-repeat;}
+.icon_male{ background: url("icons/icon_male.png") 0 50% no-repeat;}
+.icon_notes{ background: url("icons/icon_notes.png") 0 50% no-repeat;}
+.icon_ok{ background: url("icons/icon_ok.png") 0 50% no-repeat;}
+.icon_parents{ background: url("icons/icon_parents.png") 0 50% no-repeat;}
+.icon_pen{ background: url("icons/icon_pen.png") 0 50% no-repeat;}
+.icon_pencil{ background: url("icons/icon_pencil.png") 0 50% no-repeat;}
+.icon_picture{ background: url("icons/icon_picture.png") 0 50% no-repeat;}
+.icon_pie_chart{ background: url("icons/icon_pie_chart.png") 0 50% no-repeat;}
+.icon_power{ background: url("icons/icon_power.png") 0 50% no-repeat;}
+.icon_print{ background: url("icons/icon_print.png") 0 50% no-repeat;}
+.icon_refresh{ background: url("icons/icon_refresh.png") 0 50% no-repeat;}
+.icon_remove{ background: url("icons/icon_remove.png") 0 50% no-repeat;}
+.icon_repeat{ background: url("icons/icon_repeat.png") 0 50% no-repeat;}
+.icon_right_arrow{ background: url("icons/icon_right_arrow.png") 0 50% no-repeat;}
+.icon_right_indent{ background: url("icons/icon_right_indent.png") 0 50% no-repeat;}
+.icon_roundabout{ background: url("icons/icon_roundabout.png") 0 50% no-repeat;}
+.icon_search{ background: url("icons/icon_search.png") 0 50% no-repeat;}
+.icon_settings{ background: url("icons/icon_settings.png") 0 50% no-repeat;}
+.icon_share{ background: url("icons/icon_share.png") 0 50% no-repeat;}
+.icon_shield{ background: url("icons/icon_shield.png") 0 50% no-repeat;}
+.icon_shopping_cart{ background: url("icons/icon_shopping_cart.png") 0 50% no-repeat;}
+.icon_show_big_thumbnails{ background: url("icons/icon_show_big_thumbnails.png") 0 50% no-repeat;}
+.icon_show_thumbnails{ background: url("icons/icon_show_thumbnails.png") 0 50% no-repeat;}
+.icon_show_thumbnails_with_line{ background: url("icons/icon_show_thumbnails_with_line.png") 0 50% no-repeat;}
+.icon_smoking{ background: url("icons/icon_smoking.png") 0 50% no-repeat;}
+.icon_stats{ background: url("icons/icon_stats.png") 0 50% no-repeat;}
+.icon_table{ background: url("icons/icon_table.png") 0 50% no-repeat;}
+.icon_text_bigger{ background: url("icons/icon_text_bigger.png") 0 50% no-repeat;}
+.icon_text_height{ background: url("icons/icon_text_height.png") 0 50% no-repeat;}
+.icon_text_resize{ background: url("icons/icon_text_resize.png") 0 50% no-repeat;}
+.icon_text_smaller{ background: url("icons/icon_text_smaller.png") 0 50% no-repeat;}
+.icon_text_strike{ background: url("icons/icon_text_strike.png") 0 50% no-repeat;}
+.icon_text_underline{ background: url("icons/icon_text_underline.png") 0 50% no-repeat;}
+.icon_text_width{ background: url("icons/icon_text_width.png") 0 50% no-repeat;}
+.icon_thumbs_down{ background: url("icons/icon_thumbs_down.png") 0 50% no-repeat;}
+.icon_thumbs_up{ background: url("icons/icon_thumbs_up.png") 0 50% no-repeat;}
+.icon_unlock{ background: url("icons/icon_unlock.png") 0 50% no-repeat;}
+.icon_unshare{ background: url("icons/icon_unshare.png") 0 50% no-repeat;}
+.icon_up_arrow{ background: url("icons/icon_up_arrow.png") 0 50% no-repeat;}
+.icon_upload{ background: url("icons/icon_upload.png") 0 50% no-repeat;}
+.icon_usd{ background: url("icons/icon_usd.png") 0 50% no-repeat;}
+.icon_user{ background: url("icons/icon_user.png") 0 50% no-repeat;}
+.icon_user_add{ background: url("icons/icon_user_add.png") 0 50% no-repeat;}
+.icon_user_remove{ background: url("icons/icon_user_remove.png") 0 50% no-repeat;}
+.icon_warning{ background: url("icons/icon_warning.png") 0 50% no-repeat;}
+.icon_zoom_in{ background: url("icons/icon_zoom_in.png") 0 50% no-repeat;}
+.icon_zoom_out{ background: url("icons/icon_zoom_out.png") 0 50% no-repeat;}
